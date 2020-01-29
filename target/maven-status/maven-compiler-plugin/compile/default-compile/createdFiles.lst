@@ -1,0 +1,8 @@
+com\dell\qa\ExtentReportListener\ExtentReporterNG.class
+com\dell\qa\ExtentReportListener\TestUtil.class
+com\dell\qa\Analyzer\MyTransformer.class
+com\dell\qa\base\TestBase.class
+com\dell\qa\pages\ContactsPage.class
+com\dell\qa\pages\LoginPage.class
+com\dell\qa\utilities\TestUtil.class
+com\dell\qa\Analyzer\RetryAnalyzer.class
